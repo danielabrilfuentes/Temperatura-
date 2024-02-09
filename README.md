@@ -1,2 +1,2 @@
-# Temperatura-
-programa para realizar comversiones de temperatra 
+# are-perimetro-circulo
+programa para calcular el area de un circulo cuyo perimetro es R
